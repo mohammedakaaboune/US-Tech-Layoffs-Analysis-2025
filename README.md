@@ -12,10 +12,13 @@ As part of my journey into Data Analytics, i analyzed real-world workforce data 
 * **Python:** Core logic and data manipulation.
 * **Pandas:** ETL (Extract, Transform, Load) and data cleaning.
 * **Jupyter Notebook:** Interactive development and documentation.
+* **PowerBI:** Data Visualization.
 
 ## 📂 Project Structure
 * `layoffs_analysis.ipynb`: The main analysis script containing data cleaning, aggregation, and filtering logic.
 * `layoffs.csv`: The dataset.
+* `LayoffsDash.pbix`: The PowerBI Dashboard.
+* `LayoffsDash.pdf`: The PowerBI Dashboard in PDF format.
 
 ## 📝 by Mohammed Akaaboune.
 * **LinkedIn** : https://www.linkedin.com/in/mohammed-akaaboune/
