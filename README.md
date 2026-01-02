@@ -17,7 +17,7 @@ As part of my journey into Data Analytics, i analyzed real-world workforce data 
 ## 📂 Project Structure
 * `layoffs_analysis.ipynb`: The main analysis script containing data cleaning, aggregation, and filtering logic.
 * `layoffs.csv`: The dataset.
-* `LayoffsDash.pbix`: The PowerBI Dashboard.
+* `LayoffsDash.pbix`: The PowerBI Dashboard. To refresh the data, download the layoffs.csv file first, open the .pbix in Power BI Desktop, and update the Data Source settings to point to the local file on your desktop.
 * `LayoffsDash.pdf`: The PowerBI Dashboard in PDF format.
 
 ## 📝 by Mohammed Akaaboune.
